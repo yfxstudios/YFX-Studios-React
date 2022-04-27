@@ -175,7 +175,7 @@
 }
 .home-heading {
   text-align: center;
-  margin-bottom: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-doubleunit);
 }
 .home-cta-btn1 {
   color: var(--dl-color-gray-white);
@@ -194,8 +194,8 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-iframe {
-  width: 729px;
-  height: 379px;
+  width: 524px;
+  height: 266px;
 }
 .home-features {
   width: 100%;
